@@ -1,6 +1,6 @@
 # Career Path Advice using Machine Learning
 
-Code which predicts your next job title given your CV. A project for the UCL Machine Learning MSc. Dataset provided by Adzuna.
+Code which predicts your next job title given your CV.
 
 ## Abstract
 
@@ -10,7 +10,7 @@ Every job site aims to present their users with a selection of highly relevant j
 
 A couple of visualizations of the dataset that was used:
 
-![Alt text](images/final_job_wordcloud.jpg)
+![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40abbasbehrain95%2Fcreating-an-ai-powered-job-recommendation-system-50ce1cd12d36&psig=AOvVaw0dMGoLggXIBH3p0qR505Ex&ust=1752029312787000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIid6fifrI4DFQAAAAAdAAAAABAE)
 
 ![Alt text](images/recent_job_category.png)
 
@@ -29,7 +29,7 @@ Below are a couple of sample career paths and the top 10 recommendations made by
 ## Description of files
 
 * *embeddings* - folder that contains scripts which test the provided skill embeddings and learn the job embeddings
-* *baseline_model.py* - script that runs and evaluates the baseline model, a Naive Bayes
+* *baseline_model.py* - script that runs and evaluates the baseline model
 * *ecoc.py* - runs the Error Correcting Output Codes' model
 * *eda.py* - some exploratory data analysis
 * *nemo.py* - script that runs and evaluates the main model, a contextual LSTM
